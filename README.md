@@ -1,2 +1,2 @@
-# crio-test
+test
 test repository
